@@ -183,7 +183,7 @@ elif "-" in port:
                for future in futures:
                    results.append(future.result())
 
-                   results.sort(key=lambda x:["port"])
+                   results.sort(key=lambda x: x["port"])
                for result in results:
                    print(
                        f"{result['port']} {result['port service']} - "

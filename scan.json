@@ -1,0 +1,86 @@
+[
+    {
+        "target": "google.com",
+        "ip": "142.250.154.138",
+        "port": 21,
+        "port service": "ftp",
+        "status": "Open",
+        "status code": 0,
+        "Description error": "No error",
+        "response_time_ms": 2.67,
+        "HTTP-banner": null,
+        "banner": null
+    },
+    {
+        "target": "google.com",
+        "ip": "142.250.154.138",
+        "port": 22,
+        "port service": "ssh",
+        "status": "Close",
+        "status code": 10035,
+        "Description error": "Unknown error",
+        "response_time_ms": 1004.29,
+        "HTTP-banner": null,
+        "banner": null
+    },
+    {
+        "target": "google.com",
+        "ip": "142.250.154.138",
+        "port": 25,
+        "port service": "smtp",
+        "status": "Close",
+        "status code": 10035,
+        "Description error": "Unknown error",
+        "response_time_ms": 1004.18,
+        "HTTP-banner": null,
+        "banner": null
+    },
+    {
+        "target": "google.com",
+        "ip": "142.250.154.138",
+        "port": 80,
+        "port service": "http",
+        "status": "Open",
+        "status code": 0,
+        "Description error": "No error",
+        "response_time_ms": 40.17,
+        "HTTP-banner": "HTTP/1.1 301 Moved Permanently\r\nLocation: http://www.google.com/\r\nContent-Type: text/html; charset=UTF-8\r\nContent-Security-Policy-Report-Only: object-src 'none';base-uri 'self';script-src 'nonce--n2z8dsVp5P7IQwWBb9TjA' 'strict-dynamic' 'report-sample' 'unsafe-eval' 'unsafe-inline' https: http:;report-uri https://csp.withgoogle.com/csp/gws/other-hp\r\nDate: Mon, 10 Aug 2026 21:44:16 GMT\r\nExpires: Wed, 09 Sep 2026 21:44:16 GMT\r\nCache-Control: public, max-age=2592000\r\nServer: gws\r\nContent-Length: 219\r\nX-XSS-Protection: 0\r\nX-Frame-Options: SAMEORIGIN\r\nConnection: close\r\n\r\n",
+        "banner": null
+    },
+    {
+        "target": "google.com",
+        "ip": "142.250.154.138",
+        "port": 110,
+        "port service": "pop3",
+        "status": "Close",
+        "status code": 10035,
+        "Description error": "Unknown error",
+        "response_time_ms": 1003.95,
+        "HTTP-banner": null,
+        "banner": null
+    },
+    {
+        "target": "google.com",
+        "ip": "142.250.154.138",
+        "port": 443,
+        "port service": "https",
+        "status": "Open",
+        "status code": 0,
+        "Description error": "No error",
+        "response_time_ms": 39.96,
+        "HTTP-banner": null,
+        "banner": null
+    },
+    {
+        "target": "google.com",
+        "ip": "142.250.154.138",
+        "port": 8080,
+        "port service": "Unknown",
+        "status": "Close",
+        "status code": 10035,
+        "Description error": "Unknown error",
+        "response_time_ms": 1003.75,
+        "HTTP-banner": null,
+        "banner": null
+    }
+]
